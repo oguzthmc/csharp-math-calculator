@@ -1,0 +1,10 @@
+C:\Users\Acer\source\repos\MathCalculator\MathCalculator\bin\Debug\MathCalculator.exe.config
+C:\Users\Acer\source\repos\MathCalculator\MathCalculator\bin\Debug\MathCalculator.exe
+C:\Users\Acer\source\repos\MathCalculator\MathCalculator\bin\Debug\MathCalculator.pdb
+C:\Users\Acer\source\repos\MathCalculator\MathCalculator\obj\Debug\MathCalculator.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\MathCalculator\MathCalculator\obj\Debug\MathCalculator.Form1.resources
+C:\Users\Acer\source\repos\MathCalculator\MathCalculator\obj\Debug\MathCalculator.Properties.Resources.resources
+C:\Users\Acer\source\repos\MathCalculator\MathCalculator\obj\Debug\MathCalculator.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\MathCalculator\MathCalculator\obj\Debug\MathCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\MathCalculator\MathCalculator\obj\Debug\MathCalculator.exe
+C:\Users\Acer\source\repos\MathCalculator\MathCalculator\obj\Debug\MathCalculator.pdb
